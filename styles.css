@@ -1,0 +1,107 @@
+#title {
+
+
+
+}
+h1{font-family:"Dancing Script" ,cursive;
+font-weight: bold;
+font-size: 3rem;
+line-height: 1.5}
+
+h3{font-family: "Montserrat-Bold";
+font-size: 1.5rem;
+font-weight: bolder;}
+
+h2{font-family: fantasy;
+font-weight: bolder;
+font-size: 3rem;
+line-height: 1.5;}
+
+p{color: #576F72}
+
+.container-fluid{padding: 3% 15% 7%}
+
+/* navigation bar  */
+
+.navbar{padding-bottom: 4.5rem}
+
+.navbar-brand{font-family: "Montserrat-Black";
+font-weight: bold;}
+
+.title-image{
+transform: rotate(25deg);
+right: 10%%;}
+
+#features{padding: 7% 15%;
+;
+position: relative;
+z-index: 1}
+
+.feature-box{text-align: center;
+padding: 5%}
+
+.tick:hover{color: #9CB4CC}
+
+.chart:hover{color: #9CB4CC}
+
+.bullseye:hover{color: #9CB4CC}
+
+#testimonials{
+text-align: center;
+padding:  1 2 3 4
+}
+
+.artimg{width: 10%;
+border-radius: 100%}
+
+#press{
+text-align:center;}
+
+.web{width: 15%;
+margin: 20px 20px 50px}
+
+.carousel-item{padding: 7% 15%;}
+
+#pricing{padding: 100px;
+text-align: center;
+;}
+
+.column{padding: 3% 2%;}
+
+@media(max-width:1028px){
+#title{text-align: center;}
+
+  .title-image{position: static;
+  transform: rotate(0);} }
+
+#cta{
+
+  padding: 7% 15%;
+  text-align: center;
+  text-decoration: underline;
+ }
+
+.hallo{font-size: 3.5rem;
+  line-height: 1.5;
+font-weight: bolder;}
+
+#footer{padding: 7% 15%;
+text-align: center;
+ }
+
+.fb{width: 5%;
+margin: 20px 10px}
+
+.insta{width: 5%;
+margin: 20px 10px}
+
+#title .container-fluid{
+  padding: 3% 15%
+}
+
+.colored-dark{background-color:#7A86B6;
+color: #DBDFFD;}
+
+.colored-light{background-color:#DBDFFD}
+
+.navbar{padding: 0 0 4.5rem}
